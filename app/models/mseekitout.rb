@@ -1,2 +1,0 @@
-class Mseekitout < ApplicationRecord
-end
