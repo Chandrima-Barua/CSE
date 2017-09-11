@@ -1,0 +1,2 @@
+class Mrestaurent < ApplicationRecord
+end

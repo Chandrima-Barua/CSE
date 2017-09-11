@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  total_seat: MyString
+  rest_id: MyString
+  avail_seat: MyString
+  location: MyText
+
+two:
+  name: MyString
+  total_seat: MyString
+  rest_id: MyString
+  avail_seat: MyString
+  location: MyText

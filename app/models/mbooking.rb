@@ -1,0 +1,2 @@
+class Mbooking < ApplicationRecord
+end
